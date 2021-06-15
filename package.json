@@ -1,0 +1,26 @@
+{
+  "name": "mandiri-mib-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kodingworks/moobank-js-mandiri-mib-bot.git"
+  },
+  "author": "Mohamad Rafi Randoni <rafi.randoni@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kodingworks/moobank-js-mandiri-mib-bot/issues"
+  },
+  "homepage": "https://github.com/kodingworks/moobank-js-mandiri-mib-bot#readme",
+  "dependencies": {
+    "@types/jest": "^26.0.23",
+    "jest": "^27.0.4",
+    "moobank-js": "file:../base",
+    "ts-jest": "^27.0.2",
+    "typescript": "^4.3.2"
+  }
+}
